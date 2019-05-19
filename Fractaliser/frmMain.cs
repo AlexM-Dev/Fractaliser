@@ -124,9 +124,12 @@ namespace Fractaliser {
                 "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 
             if (result == DialogResult.Yes) {
+                Renderer.Previous.Dispose();
+                Renderer.Current.Dispose();
                 Renderer.Previous = null;
                 Renderer.Current = null;
 
+                picFractal.Image.Dispose();
                 picFractal.Image = null;
             }
         }
