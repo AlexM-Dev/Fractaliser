@@ -25,9 +25,11 @@ namespace Fractaliser {
         public void Render() {
             var bmp = new Bitmap(Size.Width, Size.Height);
             var g = Graphics.FromImage(bmp);
-            g.FillRectangle(new SolidBrush(this.BackColor), 
+            g.FillRectangle(new SolidBrush(this.BackColor),
                 new Rectangle(0, 0, bmp.Width, bmp.Height));
 
+            if (this.Previous != null)
+                this.Previous.Dispose();
             this.Previous = this.Current;
 
             if (this.Previous != null) {
