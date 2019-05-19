@@ -24,4 +24,8 @@ Features will be added. More shapes will be added. It will be fun.
 
 Thanks, Matt Parker, for your video! It was truly fun!
 
-You can see Screenshots in the wiki, for your convenience.
+## Screenshots
+![Editing a Copy Region](https://sevr.org/i/a925d28d-5079-4cd0-9b9a-fce066a1da52.png)
+![Editing a Shape](https://sevr.org/i/89986ac2-f370-40b4-bcd9-38178513f733.png)
+![Initial rendering](https://sevr.org/i/892ea9d1-5ca1-4bd5-8d6d-86e223d9ee38.png)
+![Further rendering](https://sevr.org/i/1d1ffade-5f07-4ad6-bbcd-035bab425f6e.png)
