@@ -22,7 +22,7 @@ to create an image with one "Shape".
 The program's possibilities are still largely untested, and still undergoing testing.
 Features will be added. More shapes will be added. It will be fun.
 
-Thanks, Matt Parker, for your video! It was truly fun!
+Thanks, Matt Parker, for your video! It was truly fun to watch!
 
 ## Screenshots
 <a href="https://sevr.org/i/a925d28d-5079-4cd0-9b9a-fce066a1da52.png"><img src="https://sevr.org/i/a925d28d-5079-4cd0-9b9a-fce066a1da52.png" alt="Editing a Copy Region" height="100">
